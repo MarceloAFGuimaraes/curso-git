@@ -9,8 +9,9 @@ namespace TestGit
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+           
             Console.WriteLine("Ola mundo !");
+            Console.WriteLine("Testando os GITS");
             Console.ReadKey();
         }
     }

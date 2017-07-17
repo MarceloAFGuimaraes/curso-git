@@ -1,0 +1,9 @@
+C:\Users\marce\Desktop\TestGit\TestGit\bin\Debug\netcoreapp1.1\TestGit.deps.json
+C:\Users\marce\Desktop\TestGit\TestGit\bin\Debug\netcoreapp1.1\TestGit.runtimeconfig.json
+C:\Users\marce\Desktop\TestGit\TestGit\bin\Debug\netcoreapp1.1\TestGit.runtimeconfig.dev.json
+C:\Users\marce\Desktop\TestGit\TestGit\bin\Debug\netcoreapp1.1\TestGit.dll
+C:\Users\marce\Desktop\TestGit\TestGit\bin\Debug\netcoreapp1.1\TestGit.pdb
+C:\Users\marce\Desktop\TestGit\TestGit\obj\Debug\netcoreapp1.1\TestGit.csprojResolveAssemblyReference.cache
+C:\Users\marce\Desktop\TestGit\TestGit\obj\Debug\netcoreapp1.1\TestGit.AssemblyInfo.cs
+C:\Users\marce\Desktop\TestGit\TestGit\obj\Debug\netcoreapp1.1\TestGit.dll
+C:\Users\marce\Desktop\TestGit\TestGit\obj\Debug\netcoreapp1.1\TestGit.pdb
